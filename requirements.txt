@@ -1,3 +1,3 @@
 cmdln>=1.0
--e git+https://github.com/dotcloud/docker-py.git#egg=docker-py
+-e git+https://github.com/joedursun/docker-py.git#egg=docker-py
 pyyaml
